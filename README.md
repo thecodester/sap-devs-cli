@@ -75,7 +75,7 @@ This project is licensed under the Apache Software License, v. 2 except as noted
 
 ## Devtoberfest Scavenger Hunt
 
-![Who is this?](Nico2d.png)
+![Who is this?](Nico2d-small.png)
 
 6th letter of first name.
 
