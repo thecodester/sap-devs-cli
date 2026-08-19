@@ -72,3 +72,12 @@ This project is provided "as-is": there is no guarantee that raised issues will 
 
 Copyright (c) 2026 SAP SE or an SAP affiliate company. All rights reserved.
 This project is licensed under the Apache Software License, v. 2 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+
+## Devtoberfest Scavenger Hunt
+
+![Uploading Nico2d.png…]()
+
+	6th letter of first name.
+
+More Info: [https://url.sap/7afji2](https://url.sap/7afji2)
+
