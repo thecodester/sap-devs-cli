@@ -75,9 +75,9 @@ This project is licensed under the Apache Software License, v. 2 except as noted
 
 ## Devtoberfest Scavenger Hunt
 
-![Uploading Nico2d.png…]()
+![Who is this?](Nico2d.png)
 
-	6th letter of first name.
+6th letter of first name.
 
 More Info: [https://url.sap/7afji2](https://url.sap/7afji2)
 
